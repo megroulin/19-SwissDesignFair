@@ -4,6 +4,10 @@ body {
   background: #ddd;
 }
 
+h1 {
+  font-family: 'Poppins', sans-serif;
+}
+
 img {
   display: block;
   max-width: 100%;
